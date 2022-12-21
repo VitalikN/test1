@@ -1,5 +1,6 @@
 body {
-  background-image: url(https://i.ibb.co/Wt6q4QP/1-y-X7-Vd1-G1wi9-F0vth-LEh-AA.jpg);
+  /* background-image: url(https://i.ibb.co/Wt6q4QP/1-y-X7-Vd1-G1wi9-F0vth-LEh-AA.jpg); */
+  background-image: url(./img/Ukraina-Jeduna.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -11,7 +12,7 @@ body {
   background-size: cover;
   border-radius: 50%;
   position: relative;
-  left: 525px;
+  left: 225px;
 }
 .clock-arrow {
   position: absolute;
@@ -64,7 +65,8 @@ body {
   text-shadow: 3px 3px 2px #cecbcd;
 }
 .digital-clock {
-  text-align: center;
-  font-size: 60px;
-  text-shadow: 3px 3px 2px #cecbcd;
+  text-align: end;
+
+  font-size: 100px;
+  text-shadow: 4px 3px 2px #cecbcd;
 }
